@@ -41,17 +41,6 @@ Bienvenido a mi portafolio web. Este proyecto tiene como objetivo mostrar mi tra
 ## Autor
 
 - Tu Nombre
-- Sitio web: [tu-sitio-web.com](proximamente)
-- LinkedIn: [tu-perfil-linkedin](www.linkedin.com/in/juan-carlos-rodríguez-lópez-643523199)
-- GitHub: [tu-usuario-github](https://github.com/Xoxemy)
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
-```
-
-Recuerda personalizar la información y los enlaces para que se adapten a tu proyecto y tu perfil. Además, asegúrate de agregar las capturas de pantalla de tu sitio web en la carpeta "screenshots" o ajustar las rutas de las imágenes según sea necesario.
+- Sitio web: [Proximamente](proximamente)
+- LinkedIn: [Juan Carlos](www.linkedin.com/in/juan-carlos-rodríguez-lópez-643523199)
+- GitHub: [Xoxemy](https://github.com/Xoxemy)
