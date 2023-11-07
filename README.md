@@ -41,6 +41,6 @@ Bienvenido a mi portafolio web. Este proyecto tiene como objetivo mostrar mi tra
 ## Autor
 
 - Tu Nombre
-- Sitio web: [Proximamente](proximamente)
+- Sitio web: [Proximamente](https://xoxemystudio1.netlify.app/)
 - LinkedIn: [Juan Carlos](www.linkedin.com/in/juan-carlos-rodríguez-lópez-643523199)
 - GitHub: [Xoxemy](https://github.com/Xoxemy)
