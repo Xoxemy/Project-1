@@ -1,20 +1,18 @@
+# Base Proyectos
+
+Esto no es un proyecto de portfolio, esto es una base de HTML y CSS sencilla para utilizar para proyectos
+
+Preview: [Pagina Web](https://xoxemystudio1.netlify.app/)
+
 ```markdown
-# Mi Portafolio Web
-
-Bienvenido a mi portafolio web. Este proyecto tiene como objetivo mostrar mi trabajo y experiencia de una manera atractiva y fácil de navegar.
-
 ## Características
 
 - **Página de inicio:** Una breve introducción y una llamada a la acción para explorar más.
-- **Proyectos:** Muestra una selección de mis proyectos anteriores con enlaces y descripciones.
-- **Acerca de Mí:** Una sección donde cuento un poco sobre quién soy y mi experiencia.
-- **Contacto:** Formulario de contacto y enlaces a mis perfiles de redes sociales.
 
 ## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
-- JavaScript
 - [Font Awesome](https://fontawesome.com/) (iconos)
 
 ## Cómo Usar
@@ -22,7 +20,7 @@ Bienvenido a mi portafolio web. Este proyecto tiene como objetivo mostrar mi tra
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/Xoxemy/Project-1.git
+   git clone https://github.com/Xoxemy/base-htmlycss.git
    ```
 
 2. Abre el archivo `index.html` en tu navegador web.
@@ -40,7 +38,6 @@ Bienvenido a mi portafolio web. Este proyecto tiene como objetivo mostrar mi tra
 
 ## Autor
 
-- Tu Nombre
-- Sitio web: [Pagina Web](https://xoxemystudio1.netlify.app/)
+- Juan Carlos Rodriguez
 - LinkedIn: [Juan Carlos](www.linkedin.com/in/juan-carlos-rodríguez-lópez-643523199)
-- GitHub: [Xoxemy](https://github.com/Xoxemy)
+- GitHub: [@Xoxemy](https://github.com/Xoxemy)
